@@ -1,0 +1,43 @@
+[![An image of @gelvezz23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gelvezz23)](https://holopin.io/@gelvezz23)
+## Hola mundo!
+
+</h2>
+
+<a href="https://www.linkedin.com/in/carlos-mario-g%C3%B3mez-gelvez-07888a116/">
+  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<br />
+<img align="right" alt="GIF" width="300px" src="https://raw.githubusercontent.com/gelvezz23/gelvezz23/master/src/assets/img/carlos.png" />
+
+### Hola mi nombre es Carlos Gomez
+
+- Soy un apasionado por el desarrollo web
+- estudiante de Ingenieria de sistemas.
+- Mi desempeño en Frontend developer.
+
+[Linkedin](https://www.linkedin.com/in/carlosmariogomezg/)
+
+[mi portafolio](https://gelvezz23.github.io/gelvezz23/)
+
+@gelvezz23 [Canal de youtube](https://www.youtube.com/channel/UC6EIwfiaZu7qifLoZl7kASQ)
+
+⭐️ From [gelvezz23](https://github.com/gelvezz23)
+
+![gelvezz23](https://github-readme-stats.vercel.app/api?username=gelvezz23&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gelvezz23&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gelvezz23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 Trofeos GitHub
+
+![](https://github-profile-trophy.vercel.app/?username=gelvezz23&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Frases Random
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+
+## 💰 Puede ayudarme haciendo un donativo
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/carlosgomezgelvez?country.x=CO&locale.x=es_XC)
+
+
